@@ -5,3 +5,5 @@ A DAO can have traditional roles in an organization such as CEO, COO, managers w
 # Understanding DAO with an example
 Let’s say a person X own 3000 shares of the organization which has in total 30,000 issued shares, then Mr. X will become 10% owner of that organization. These shares can be transferred to anyone which will, in turn, transfer the ownership of the organization. Shareholders appoint a Board of Directors who control the major key decision of the organization, who in turn appoints the CEO, to execute the day-to-day operation by hiring more staff under him. A DAO are just the digital version of the above arrangement where all the above rules & regulation are written in the source code rather than the piece of paper. This brings transparency, trace-ability, build trustless network and reduce fraud.
  
+- dapp smart contract in solidity
+- using Truffle framework
