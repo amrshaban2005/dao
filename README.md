@@ -1,7 +1,7 @@
-# dao
-- What is DAO?
+# DAO
+# What is DAO?
 The DAO, short for Distributed Autonomous Organization, is a new kind of organization showing the way for future organizations entirely on the decentralized principles of Blockchain. Simply put, a DAO is a virtual organization defined by Smart Contracts (distributed computer programs). The financial transaction records of the organization, program rules and contracts are maintained on a Blockchain, where code is executed in a decentralized manner and the state is maintained by a consensus in the system. That is, the organization would have no central control, be administered entirely on the web, and would have no reliance on conventional legal contracts. Autonomous machine agents would manage most activities and agreements would be self-enforcing via the blockchain.
 A DAO can have traditional roles in an organization such as CEO, COO, managers who run projects, so on and so forth. However, DAO can also operate through collective voting. It would have owners who’s purchased a DAO token, similar to shareholders of a traditionally formed organization. Typically, DAO shares are represented by digital tokens that can be traded internally, or sold on external exchanges. The possibility of a steady increase in the value of the tokens seems the most important factor for a successful DAO.
-- Understanding DAO with an example
+# Understanding DAO with an example
 Let’s say a person X own 3000 shares of the organization which has in total 30,000 issued shares, then Mr. X will become 10% owner of that organization. These shares can be transferred to anyone which will, in turn, transfer the ownership of the organization. Shareholders appoint a Board of Directors who control the major key decision of the organization, who in turn appoints the CEO, to execute the day-to-day operation by hiring more staff under him. A DAO are just the digital version of the above arrangement where all the above rules & regulation are written in the source code rather than the piece of paper. This brings transparency, trace-ability, build trustless network and reduce fraud.
  
